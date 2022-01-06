@@ -9,3 +9,5 @@ print(new_tab)
 new_tab1=[number**3 for number in new_tab ]
 print(new_tab1)
 print("zmiany commita")
+print(" 1")
+
