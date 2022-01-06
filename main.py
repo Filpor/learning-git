@@ -11,4 +11,5 @@ print(new_tab1)
 print("zmiany commita")
 print(" 1")
 print("2")
+print("3")
 
